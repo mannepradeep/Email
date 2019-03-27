@@ -1,0 +1,14 @@
+c:\users\pradeepm\source\repos\Email_code\Email_code\obj\Debug\Email_code.csproj.CoreCompileInputs.cache
+c:\users\pradeepm\source\repos\Email_code\Email_code\bin\Debug\Email_code.exe.config
+c:\users\pradeepm\source\repos\Email_code\Email_code\bin\Debug\Email_code.exe
+c:\users\pradeepm\source\repos\Email_code\Email_code\bin\Debug\Email_code.pdb
+c:\users\pradeepm\source\repos\Email_code\Email_code\obj\Debug\Email_code.exe
+c:\users\pradeepm\source\repos\Email_code\Email_code\obj\Debug\Email_code.pdb
+C:\Users\pradeepm\source\repos\Email_code\Email_code\obj\Debug\Email_code.csprojAssemblyReference.cache
+E:\Pradeep\Email_code\Email_code\bin\Debug\Email_code.exe.config
+E:\Pradeep\Email_code\Email_code\bin\Debug\Email_code.exe
+E:\Pradeep\Email_code\Email_code\bin\Debug\Email_code.pdb
+E:\Pradeep\Email_code\Email_code\obj\Debug\Email_code.csprojAssemblyReference.cache
+E:\Pradeep\Email_code\Email_code\obj\Debug\Email_code.csproj.CoreCompileInputs.cache
+E:\Pradeep\Email_code\Email_code\obj\Debug\Email_code.exe
+E:\Pradeep\Email_code\Email_code\obj\Debug\Email_code.pdb
